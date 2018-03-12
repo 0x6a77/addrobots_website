@@ -1,8 +1,10 @@
 ## Begin Transmit!
 
+In ten years humans will create 10 million new robots. 
+
 <img align="left" src="/images/six.dof.arm.png">
 
-In ten years humans will create 10 million new robots. Maybe 100 million in the ten years after that. The default will be that ten people will own them all, e.g. Jeff Bezos. This frustrates me. It’s unfair, short sighted and won’t end well. Bill Gates says we need a robot tax welfare. I don’t want to be on welfare. Neither does anyone I know.
+Maybe 100 million in the ten years after that. The default will be that ten people will own them all, e.g. Jeff Bezos. This frustrates me. It’s unfair, short sighted and won’t end well. Bill Gates says we need a robot tax welfare. I don’t want to be on welfare. Neither does anyone I know.
 
 Meanwhile in the world of not rich people, here’s an alternative idea: communal robots, owned by workers. For the last 18 months I've been working on this idea, but it’s been pointless to talk about because with robots there’s only show - not tell.
 

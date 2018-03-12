@@ -72,7 +72,7 @@ extra_javascript:
 #  - 'https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-snap-min.js'
 #  - 'js/sequence-diagram-rafael-min.js'
 #  - 'js/sequence-diagram-snap-min.js'
-  - 'js/extra.js'
+#  - 'js/extra.js'
 
 google_analytics:
   - 'UA-77221538-1'
