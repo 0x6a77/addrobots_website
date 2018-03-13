@@ -1,12 +1,12 @@
 site_name: AddRobots
-site_description: 'Transmit'
+site_description: 'AddRobots News and Information'
 site_author: 'Jeff Williams'
 site_url: 'https://www.addrobots.com/transmit'
 
 pages:
-- Transmit: 'index.md'
+- Begin Transmit: 'index.md'
 - 2018:
-  - Begin Transmit: '2018/begin.transmit.md'
+  - Millions of Robots: '2018/begin.transmit.md'
 
 theme:
   name: 'material'
@@ -56,7 +56,7 @@ markdown_extensions:
   - pymdownx.tilde
   
 repo_url: https://github.com/AddRobots/addrobots_docs/
-copyright: AddRobots News<br>Copyright &copy; 2018 <a href="https://github.com/0x6a77">Jeff Williams</a>
+copyright: AddRobots<br>Copyright &copy; 2018 <a href="https://github.com/0x6a77">Jeff Williams</a>
 
 extra_css:
   - ./js/extra.css
