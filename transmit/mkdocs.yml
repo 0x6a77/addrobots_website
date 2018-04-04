@@ -14,6 +14,9 @@ theme:
   custom_dir: theme-overrides
   favicon: 'images/favicon/favicon.ico'
   logo: 'images/favicon/apple-icon-144x144.png'
+  font:
+    text: 'Montserrat'
+    code: 'Roboto Mono'
   feature:
     tabs: true
     
@@ -24,9 +27,6 @@ extra:
   palette:
     primary: 'indigo'
     accent: 'indigo'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
   social:
     - type: 'github'
       link: 'https://github.com/0x6a77'

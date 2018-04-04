@@ -1,7 +1,5 @@
 ### In ten years humans will create 10 million new robots 
 
-<img align="left" src="/images/six.dof.arm.png">
-
 Maybe 100 million in the ten years after that. The default will be that ten people own them all, e.g. Jeff Bezos. This frustrates me. It’s unfair, short sighted and won’t end well. Bill Gates says we need a robot tax welfare. I don’t want to be on welfare. Neither does anyone I know.
 
 Meanwhile in the world of not rich people, here’s an alternative idea: communal robots, owned by workers. For the last 18 months I've been working on this idea, but it’s been pointless to talk about because with robots there’s only show - not tell.
@@ -14,7 +12,7 @@ Welcome to the alternate reality where 10 million people will own those 10 milli
 
 So why did this bit of progress take me 18 months? Because like you, I have a day job. I work in the engine room at Autodesk. It's funny... Fusion360 and Eagle will play a key role for anyone who joins this worker-robot revolution.
 
-#### What you see in the video is a couple of things. 
+#### What you see in the video is a couple of things 
 
 *Thing 1:* a stepper motor as an Android USB type-C peripheral. It gets its data and 100W power from a standard USB cable. Btw, that’s Andy Rubin’s Essential PH-1 I bought used off of Amazon cheap. It’s unrooted, runs native OpenCV and has tons of sensors to support cool machine vision/learning applications. By this time next year people will literally be throwing away their 2018 Android models to get a 2019 model. Most of those old models have USB type-C. We can get them cheap and turn them into full-tilt controllers for boss robots!
 
